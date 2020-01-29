@@ -1,0 +1,2639 @@
+fileFormatVersion: 2
+guid: 028c2d8bb738cca4eb4652f52a1fafbd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Colliders_Asset
+    100002: Grass_optimized_main
+    100004: Grass_optimized_main1
+    100006: Grass_optimized_main10
+    100008: Grass_optimized_main11
+    100010: Grass_optimized_main12
+    100012: Grass_optimized_main2
+    100014: Grass_optimized_main3
+    100016: Grass_optimized_main4
+    100018: Grass_optimized_main4 1
+    100020: Grass_optimized_main5
+    100022: Grass_optimized_main5 1
+    100024: Grass_optimized_main6
+    100026: Grass_optimized_main7
+    100028: Grass_optimized_main8
+    100030: Grass_optimized_main9
+    100032: group
+    100034: group15
+    100036: group17
+    100038: group18
+    100040: group19
+    100042: Mountain
+    100044: //RootNode
+    100046: Mountain1
+    100048: Obstacle_1
+    100050: Obstacle_2
+    100052: Obstacle_9
+    100054: Obstacles
+    100056: Palm_Tree_Leaves
+    100058: Palm_Tree_Leaves1
+    100060: Palm_Tree_Stump
+    100062: Palm_Tree_Stump1
+    100064: Palm_Trees
+    100066: Palm_Trees1_Palm_Tree_Leaves
+    100068: Palm_Trees1_Palm_Tree_Leaves1
+    100070: Palm_Trees_2
+    100072: pasted__FoliageInstancedStaticMeshComponent_454_88
+    100074: pasted__Hut_3
+    100076: pasted__SkeletalMeshComponent0
+    100078: pasted__SM_DeadBush_02
+    100080: pCylinder2
+    100082: polySurface1115
+    100084: polySurface1119
+    100086: polySurface1123
+    100088: polySurface1127
+    100090: polySurface1418
+    100092: polySurface1429
+    100094: polySurface1435
+    100096: polySurface1446
+    100098: polySurface1447
+    100100: polySurface1471
+    100102: polySurface1472
+    100104: polySurface1483
+    100106: polySurface1491
+    100108: polySurface1492
+    100110: polySurface1493
+    100112: polySurface1494
+    100114: polySurface1495
+    100116: polySurface1496
+    100118: polySurface1497
+    100120: polySurface1498
+    100122: polySurface1499
+    100124: polySurface1500
+    100126: polySurface1501
+    100128: polySurface1502
+    100130: polySurface1503
+    100132: polySurface1504
+    100134: polySurface1505
+    100136: polySurface1506
+    100138: polySurface1508
+    100140: polySurface1510
+    100142: polySurface1511
+    100144: polySurface1512
+    100146: polySurface1513
+    100148: polySurface1514
+    100150: polySurface1515
+    100152: polySurface1516
+    100154: polySurface1517
+    100156: polySurface1518
+    100158: polySurface1519
+    100160: polySurface1520
+    100162: polySurface1521
+    100164: polySurface1522
+    100166: polySurface1523
+    100168: polySurface1524
+    100170: polySurface1525
+    100172: polySurface1526
+    100174: polySurface1527
+    100176: polySurface1528
+    100178: polySurface1529
+    100180: polySurface1530
+    100182: polySurface1531
+    100184: polySurface1532
+    100186: polySurface1533
+    100188: polySurface1534
+    100190: polySurface1535
+    100192: polySurface1536
+    100194: polySurface1537
+    100196: polySurface1538
+    100198: polySurface1539
+    100200: polySurface1540
+    100202: polySurface1541
+    100204: polySurface1542
+    100206: polySurface1543
+    100208: polySurface1544
+    100210: polySurface1545
+    100212: polySurface1546
+    100214: polySurface1547
+    100216: polySurface1548
+    100218: polySurface1549
+    100220: polySurface1550
+    100222: polySurface1551
+    100224: polySurface1552
+    100226: polySurface1553
+    100228: polySurface1554
+    100230: polySurface1555
+    100232: polySurface1556
+    100234: polySurface1557
+    100236: polySurface1558
+    100238: polySurface1560
+    100240: polySurface1561
+    100242: polySurface1562
+    100244: polySurface1564
+    100246: polySurface1565
+    100248: polySurface1566
+    100250: polySurface1567
+    100252: polySurface1568
+    100254: polySurface1569
+    100256: polySurface1571
+    100258: polySurface1572
+    100260: polySurface1573
+    100262: polySurface1574
+    100264: polySurface1575
+    100266: polySurface1576
+    100268: polySurface1577
+    100270: polySurface1579
+    100272: polySurface1580
+    100274: polySurface1581
+    100276: polySurface1582
+    100278: polySurface1583
+    100280: polySurface1584
+    100282: polySurface1585
+    100284: polySurface1587
+    100286: polySurface1588
+    100288: polySurface1590
+    100290: polySurface1591
+    100292: polySurface1592
+    100294: polySurface1593
+    100296: polySurface1594
+    100298: polySurface1595
+    100300: polySurface1596
+    100302: polySurface1597
+    100304: polySurface1598
+    100306: polySurface1599
+    100308: polySurface1600
+    100310: polySurface1601
+    100312: polySurface1602
+    100314: polySurface1603
+    100316: polySurface1604
+    100318: polySurface1606
+    100320: polySurface1607
+    100322: polySurface1608
+    100324: polySurface1609
+    100326: polySurface1610
+    100328: polySurface1611
+    100330: polySurface1612
+    100332: polySurface1613
+    100334: polySurface1614
+    100336: polySurface1615
+    100338: polySurface1617
+    100340: polySurface1618
+    100342: polySurface1620
+    100344: polySurface1621
+    100346: polySurface1622
+    100348: polySurface1623
+    100350: polySurface1624
+    100352: polySurface1625
+    100354: polySurface1626
+    100356: polySurface1627
+    100358: polySurface1628
+    100360: polySurface1629
+    100362: polySurface1630
+    100364: polySurface1631
+    100366: polySurface1632
+    100368: polySurface1633
+    100370: polySurface1635
+    100372: polySurface1636
+    100374: polySurface1637
+    100376: polySurface1638
+    100378: polySurface1677
+    100380: polySurface1678
+    100382: polySurface270
+    100384: polySurface299
+    100386: polySurface323
+    100388: polySurface332
+    100390: polySurface371
+    100392: polySurface377
+    100394: polySurface378
+    100396: polySurface379
+    100398: polySurface382
+    100400: polySurface387
+    100402: polySurface388
+    100404: polySurface394
+    100406: polySurface398
+    100408: polySurface427
+    100410: polySurface433
+    100412: polySurface434
+    100414: polySurface447
+    100416: pPlane18
+    100418: pPlane18 1
+    100420: pPlane18 2
+    100422: pPlane18 3
+    100424: pPlane18 4
+    100426: pPlane18 5
+    100428: pPlane18 6
+    100430: pPlane18 7
+    100432: pPlane19
+    100434: pPlane19 1
+    100436: pPlane19 10
+    100438: pPlane19 11
+    100440: pPlane19 12
+    100442: pPlane19 13
+    100444: pPlane19 2
+    100446: pPlane19 3
+    100448: pPlane19 4
+    100450: pPlane19 5
+    100452: pPlane19 6
+    100454: pPlane19 7
+    100456: pPlane19 8
+    100458: pPlane19 9
+    100460: pPlane2
+    100462: pPlane20
+    100464: pPlane20 1
+    100466: pPlane20 10
+    100468: pPlane20 11
+    100470: pPlane20 12
+    100472: pPlane20 13
+    100474: pPlane20 2
+    100476: pPlane20 3
+    100478: pPlane20 4
+    100480: pPlane20 5
+    100482: pPlane20 6
+    100484: pPlane20 7
+    100486: pPlane20 8
+    100488: pPlane20 9
+    100490: pPlane21
+    100492: pPlane21 1
+    100494: pPlane21 10
+    100496: pPlane21 11
+    100498: pPlane21 12
+    100500: pPlane21 13
+    100502: pPlane21 2
+    100504: pPlane21 3
+    100506: pPlane21 4
+    100508: pPlane21 5
+    100510: pPlane21 6
+    100512: pPlane21 7
+    100514: pPlane21 8
+    100516: pPlane21 9
+    100518: pPlane22
+    100520: pPlane22 1
+    100522: pPlane22 10
+    100524: pPlane22 11
+    100526: pPlane22 12
+    100528: pPlane22 13
+    100530: pPlane22 14
+    100532: pPlane22 2
+    100534: pPlane22 3
+    100536: pPlane22 4
+    100538: pPlane22 5
+    100540: pPlane22 6
+    100542: pPlane22 7
+    100544: pPlane22 8
+    100546: pPlane22 9
+    100548: pPlane23
+    100550: pPlane23 1
+    100552: pPlane23 2
+    100554: pPlane23 3
+    100556: pPlane23 4
+    100558: pPlane23 5
+    100560: pPlane23 6
+    100562: pPlane23 7
+    100564: pPlane24
+    100566: pPlane24 1
+    100568: pPlane24 10
+    100570: pPlane24 11
+    100572: pPlane24 12
+    100574: pPlane24 13
+    100576: pPlane24 2
+    100578: pPlane24 3
+    100580: pPlane24 4
+    100582: pPlane24 5
+    100584: pPlane24 6
+    100586: pPlane24 7
+    100588: pPlane24 8
+    100590: pPlane24 9
+    100592: pPlane25
+    100594: pPlane25 1
+    100596: pPlane25 10
+    100598: pPlane25 11
+    100600: pPlane25 12
+    100602: pPlane25 13
+    100604: pPlane25 14
+    100606: pPlane25 2
+    100608: pPlane25 3
+    100610: pPlane25 4
+    100612: pPlane25 5
+    100614: pPlane25 6
+    100616: pPlane25 7
+    100618: pPlane25 8
+    100620: pPlane25 9
+    100622: pPlane26
+    100624: pPlane26 1
+    100626: pPlane26 10
+    100628: pPlane26 11
+    100630: pPlane26 12
+    100632: pPlane26 13
+    100634: pPlane26 2
+    100636: pPlane26 3
+    100638: pPlane26 4
+    100640: pPlane26 5
+    100642: pPlane26 6
+    100644: pPlane26 7
+    100646: pPlane26 8
+    100648: pPlane26 9
+    100650: pPlane27
+    100652: pPlane27 1
+    100654: pPlane27 10
+    100656: pPlane27 11
+    100658: pPlane27 12
+    100660: pPlane27 2
+    100662: pPlane27 3
+    100664: pPlane27 4
+    100666: pPlane27 5
+    100668: pPlane27 6
+    100670: pPlane27 7
+    100672: pPlane27 8
+    100674: pPlane27 9
+    100676: pPlane28
+    100678: pPlane28 1
+    100680: pPlane28 10
+    100682: pPlane28 11
+    100684: pPlane28 12
+    100686: pPlane28 2
+    100688: pPlane28 3
+    100690: pPlane28 4
+    100692: pPlane28 5
+    100694: pPlane28 6
+    100696: pPlane28 7
+    100698: pPlane28 8
+    100700: pPlane28 9
+    100702: pPlane29
+    100704: pPlane29 1
+    100706: pPlane29 10
+    100708: pPlane29 11
+    100710: pPlane29 2
+    100712: pPlane29 3
+    100714: pPlane29 4
+    100716: pPlane29 5
+    100718: pPlane29 6
+    100720: pPlane29 7
+    100722: pPlane29 8
+    100724: pPlane29 9
+    100726: pPlane30
+    100728: pPlane30 1
+    100730: pPlane30 10
+    100732: pPlane30 11
+    100734: pPlane30 12
+    100736: pPlane30 13
+    100738: pPlane30 14
+    100740: pPlane30 2
+    100742: pPlane30 3
+    100744: pPlane30 4
+    100746: pPlane30 5
+    100748: pPlane30 6
+    100750: pPlane30 7
+    100752: pPlane30 8
+    100754: pPlane30 9
+    100756: pPlane31
+    100758: pPlane31 1
+    100760: pPlane31 2
+    100762: pPlane31 3
+    100764: pPlane31 4
+    100766: pPlane31 5
+    100768: pPlane31 6
+    100770: pPlane31 7
+    100772: pPlane32
+    100774: pPlane32 1
+    100776: pPlane32 10
+    100778: pPlane32 11
+    100780: pPlane32 12
+    100782: pPlane32 13
+    100784: pPlane32 2
+    100786: pPlane32 3
+    100788: pPlane32 4
+    100790: pPlane32 5
+    100792: pPlane32 6
+    100794: pPlane32 7
+    100796: pPlane32 8
+    100798: pPlane32 9
+    100800: pPlane33
+    100802: pPlane33 1
+    100804: pPlane33 10
+    100806: pPlane33 11
+    100808: pPlane33 12
+    100810: pPlane33 13
+    100812: pPlane33 2
+    100814: pPlane33 3
+    100816: pPlane33 4
+    100818: pPlane33 5
+    100820: pPlane33 6
+    100822: pPlane33 7
+    100824: pPlane33 8
+    100826: pPlane33 9
+    100828: pPlane34
+    100830: pPlane34 1
+    100832: pPlane34 10
+    100834: pPlane34 11
+    100836: pPlane34 12
+    100838: pPlane34 13
+    100840: pPlane34 2
+    100842: pPlane34 3
+    100844: pPlane34 4
+    100846: pPlane34 5
+    100848: pPlane34 6
+    100850: pPlane34 7
+    100852: pPlane34 8
+    100854: pPlane34 9
+    100856: pPlane35
+    100858: pPlane35 1
+    100860: pPlane35 10
+    100862: pPlane35 11
+    100864: pPlane35 12
+    100866: pPlane35 2
+    100868: pPlane35 3
+    100870: pPlane35 4
+    100872: pPlane35 5
+    100874: pPlane35 6
+    100876: pPlane35 7
+    100878: pPlane35 8
+    100880: pPlane35 9
+    100882: pPlane36
+    100884: pPlane36 1
+    100886: pPlane36 10
+    100888: pPlane36 11
+    100890: pPlane36 12
+    100892: pPlane36 2
+    100894: pPlane36 3
+    100896: pPlane36 4
+    100898: pPlane36 5
+    100900: pPlane36 6
+    100902: pPlane36 7
+    100904: pPlane36 8
+    100906: pPlane36 9
+    100908: pPlane55
+    100910: pPlane56
+    100912: pPlane57
+    100914: pPlane58
+    100916: pPlane59
+    100918: pPlane60
+    100920: pPlane61
+    100922: pPlane62
+    100924: pPlane63
+    100926: pPlane64
+    100928: pPlane65
+    100930: pPlane66
+    100932: pPlane67
+    100934: pPlane68
+    100936: pPlane69
+    100938: pPlane70
+    100940: pPlane71
+    100942: pPlane72
+    100944: pPlane73
+    100946: pPlane74
+    100948: pPlane75
+    100950: pPlane76
+    100952: pPlane77
+    100954: pPlane78
+    100956: pPlane79
+    100958: pPlane80
+    100960: pPlane81
+    100962: pPlane82
+    100964: pPlane83
+    100966: pPlane84
+    100968: pPlane85
+    100970: pPlane86
+    100972: pPlane87
+    100974: pPlane88
+    100976: pPlane89
+    100978: pPlane90
+    100980: pPlane91
+    100982: pPlane92
+    100984: pPlane93
+    100986: pPlane94
+    100988: pPlane95
+    100990: pPlane96
+    100992: pPlane97
+    100994: pPlane98
+    100996: SM_DeadBush_03
+    100998: SM_DeadBush_03 1
+    101000: SM_DeadBush_04
+    101002: SM_DeadBush_04 1
+    101004: SM_Fern_01
+    101006: SM_Fern_010
+    101008: SM_Fern_011
+    101010: SM_Fern_012
+    101012: SM_Fern_013
+    101014: SM_Fern_014
+    101016: SM_Fern_02
+    101018: SM_Fern_03
+    101020: SM_Fern_04
+    101022: SM_Fern_07
+    101024: SM_Fern_08
+    101026: SM_Fern_09
+    101028: SM_Small_Rock_01
+    101030: SM_Small_Rock_02
+    101032: SM_Small_Rock_03
+    101034: Tree
+    101036: Tree_2
+    101038: Tree_3
+    101040: Twigs
+    101042: Twigs1
+    101044: Wood_Log_03
+    400000: Colliders_Asset
+    400002: Grass_optimized_main
+    400004: Grass_optimized_main1
+    400006: Grass_optimized_main10
+    400008: Grass_optimized_main11
+    400010: Grass_optimized_main12
+    400012: Grass_optimized_main2
+    400014: Grass_optimized_main3
+    400016: Grass_optimized_main4
+    400018: Grass_optimized_main4 1
+    400020: Grass_optimized_main5
+    400022: Grass_optimized_main5 1
+    400024: Grass_optimized_main6
+    400026: Grass_optimized_main7
+    400028: Grass_optimized_main8
+    400030: Grass_optimized_main9
+    400032: group
+    400034: group15
+    400036: group17
+    400038: group18
+    400040: group19
+    400042: Mountain
+    400044: //RootNode
+    400046: Mountain1
+    400048: Obstacle_1
+    400050: Obstacle_2
+    400052: Obstacle_9
+    400054: Obstacles
+    400056: Palm_Tree_Leaves
+    400058: Palm_Tree_Leaves1
+    400060: Palm_Tree_Stump
+    400062: Palm_Tree_Stump1
+    400064: Palm_Trees
+    400066: Palm_Trees1_Palm_Tree_Leaves
+    400068: Palm_Trees1_Palm_Tree_Leaves1
+    400070: Palm_Trees_2
+    400072: pasted__FoliageInstancedStaticMeshComponent_454_88
+    400074: pasted__Hut_3
+    400076: pasted__SkeletalMeshComponent0
+    400078: pasted__SM_DeadBush_02
+    400080: pCylinder2
+    400082: polySurface1115
+    400084: polySurface1119
+    400086: polySurface1123
+    400088: polySurface1127
+    400090: polySurface1418
+    400092: polySurface1429
+    400094: polySurface1435
+    400096: polySurface1446
+    400098: polySurface1447
+    400100: polySurface1471
+    400102: polySurface1472
+    400104: polySurface1483
+    400106: polySurface1491
+    400108: polySurface1492
+    400110: polySurface1493
+    400112: polySurface1494
+    400114: polySurface1495
+    400116: polySurface1496
+    400118: polySurface1497
+    400120: polySurface1498
+    400122: polySurface1499
+    400124: polySurface1500
+    400126: polySurface1501
+    400128: polySurface1502
+    400130: polySurface1503
+    400132: polySurface1504
+    400134: polySurface1505
+    400136: polySurface1506
+    400138: polySurface1508
+    400140: polySurface1510
+    400142: polySurface1511
+    400144: polySurface1512
+    400146: polySurface1513
+    400148: polySurface1514
+    400150: polySurface1515
+    400152: polySurface1516
+    400154: polySurface1517
+    400156: polySurface1518
+    400158: polySurface1519
+    400160: polySurface1520
+    400162: polySurface1521
+    400164: polySurface1522
+    400166: polySurface1523
+    400168: polySurface1524
+    400170: polySurface1525
+    400172: polySurface1526
+    400174: polySurface1527
+    400176: polySurface1528
+    400178: polySurface1529
+    400180: polySurface1530
+    400182: polySurface1531
+    400184: polySurface1532
+    400186: polySurface1533
+    400188: polySurface1534
+    400190: polySurface1535
+    400192: polySurface1536
+    400194: polySurface1537
+    400196: polySurface1538
+    400198: polySurface1539
+    400200: polySurface1540
+    400202: polySurface1541
+    400204: polySurface1542
+    400206: polySurface1543
+    400208: polySurface1544
+    400210: polySurface1545
+    400212: polySurface1546
+    400214: polySurface1547
+    400216: polySurface1548
+    400218: polySurface1549
+    400220: polySurface1550
+    400222: polySurface1551
+    400224: polySurface1552
+    400226: polySurface1553
+    400228: polySurface1554
+    400230: polySurface1555
+    400232: polySurface1556
+    400234: polySurface1557
+    400236: polySurface1558
+    400238: polySurface1560
+    400240: polySurface1561
+    400242: polySurface1562
+    400244: polySurface1564
+    400246: polySurface1565
+    400248: polySurface1566
+    400250: polySurface1567
+    400252: polySurface1568
+    400254: polySurface1569
+    400256: polySurface1571
+    400258: polySurface1572
+    400260: polySurface1573
+    400262: polySurface1574
+    400264: polySurface1575
+    400266: polySurface1576
+    400268: polySurface1577
+    400270: polySurface1579
+    400272: polySurface1580
+    400274: polySurface1581
+    400276: polySurface1582
+    400278: polySurface1583
+    400280: polySurface1584
+    400282: polySurface1585
+    400284: polySurface1587
+    400286: polySurface1588
+    400288: polySurface1590
+    400290: polySurface1591
+    400292: polySurface1592
+    400294: polySurface1593
+    400296: polySurface1594
+    400298: polySurface1595
+    400300: polySurface1596
+    400302: polySurface1597
+    400304: polySurface1598
+    400306: polySurface1599
+    400308: polySurface1600
+    400310: polySurface1601
+    400312: polySurface1602
+    400314: polySurface1603
+    400316: polySurface1604
+    400318: polySurface1606
+    400320: polySurface1607
+    400322: polySurface1608
+    400324: polySurface1609
+    400326: polySurface1610
+    400328: polySurface1611
+    400330: polySurface1612
+    400332: polySurface1613
+    400334: polySurface1614
+    400336: polySurface1615
+    400338: polySurface1617
+    400340: polySurface1618
+    400342: polySurface1620
+    400344: polySurface1621
+    400346: polySurface1622
+    400348: polySurface1623
+    400350: polySurface1624
+    400352: polySurface1625
+    400354: polySurface1626
+    400356: polySurface1627
+    400358: polySurface1628
+    400360: polySurface1629
+    400362: polySurface1630
+    400364: polySurface1631
+    400366: polySurface1632
+    400368: polySurface1633
+    400370: polySurface1635
+    400372: polySurface1636
+    400374: polySurface1637
+    400376: polySurface1638
+    400378: polySurface1677
+    400380: polySurface1678
+    400382: polySurface270
+    400384: polySurface299
+    400386: polySurface323
+    400388: polySurface332
+    400390: polySurface371
+    400392: polySurface377
+    400394: polySurface378
+    400396: polySurface379
+    400398: polySurface382
+    400400: polySurface387
+    400402: polySurface388
+    400404: polySurface394
+    400406: polySurface398
+    400408: polySurface427
+    400410: polySurface433
+    400412: polySurface434
+    400414: polySurface447
+    400416: pPlane18
+    400418: pPlane18 1
+    400420: pPlane18 2
+    400422: pPlane18 3
+    400424: pPlane18 4
+    400426: pPlane18 5
+    400428: pPlane18 6
+    400430: pPlane18 7
+    400432: pPlane19
+    400434: pPlane19 1
+    400436: pPlane19 10
+    400438: pPlane19 11
+    400440: pPlane19 12
+    400442: pPlane19 13
+    400444: pPlane19 2
+    400446: pPlane19 3
+    400448: pPlane19 4
+    400450: pPlane19 5
+    400452: pPlane19 6
+    400454: pPlane19 7
+    400456: pPlane19 8
+    400458: pPlane19 9
+    400460: pPlane2
+    400462: pPlane20
+    400464: pPlane20 1
+    400466: pPlane20 10
+    400468: pPlane20 11
+    400470: pPlane20 12
+    400472: pPlane20 13
+    400474: pPlane20 2
+    400476: pPlane20 3
+    400478: pPlane20 4
+    400480: pPlane20 5
+    400482: pPlane20 6
+    400484: pPlane20 7
+    400486: pPlane20 8
+    400488: pPlane20 9
+    400490: pPlane21
+    400492: pPlane21 1
+    400494: pPlane21 10
+    400496: pPlane21 11
+    400498: pPlane21 12
+    400500: pPlane21 13
+    400502: pPlane21 2
+    400504: pPlane21 3
+    400506: pPlane21 4
+    400508: pPlane21 5
+    400510: pPlane21 6
+    400512: pPlane21 7
+    400514: pPlane21 8
+    400516: pPlane21 9
+    400518: pPlane22
+    400520: pPlane22 1
+    400522: pPlane22 10
+    400524: pPlane22 11
+    400526: pPlane22 12
+    400528: pPlane22 13
+    400530: pPlane22 14
+    400532: pPlane22 2
+    400534: pPlane22 3
+    400536: pPlane22 4
+    400538: pPlane22 5
+    400540: pPlane22 6
+    400542: pPlane22 7
+    400544: pPlane22 8
+    400546: pPlane22 9
+    400548: pPlane23
+    400550: pPlane23 1
+    400552: pPlane23 2
+    400554: pPlane23 3
+    400556: pPlane23 4
+    400558: pPlane23 5
+    400560: pPlane23 6
+    400562: pPlane23 7
+    400564: pPlane24
+    400566: pPlane24 1
+    400568: pPlane24 10
+    400570: pPlane24 11
+    400572: pPlane24 12
+    400574: pPlane24 13
+    400576: pPlane24 2
+    400578: pPlane24 3
+    400580: pPlane24 4
+    400582: pPlane24 5
+    400584: pPlane24 6
+    400586: pPlane24 7
+    400588: pPlane24 8
+    400590: pPlane24 9
+    400592: pPlane25
+    400594: pPlane25 1
+    400596: pPlane25 10
+    400598: pPlane25 11
+    400600: pPlane25 12
+    400602: pPlane25 13
+    400604: pPlane25 14
+    400606: pPlane25 2
+    400608: pPlane25 3
+    400610: pPlane25 4
+    400612: pPlane25 5
+    400614: pPlane25 6
+    400616: pPlane25 7
+    400618: pPlane25 8
+    400620: pPlane25 9
+    400622: pPlane26
+    400624: pPlane26 1
+    400626: pPlane26 10
+    400628: pPlane26 11
+    400630: pPlane26 12
+    400632: pPlane26 13
+    400634: pPlane26 2
+    400636: pPlane26 3
+    400638: pPlane26 4
+    400640: pPlane26 5
+    400642: pPlane26 6
+    400644: pPlane26 7
+    400646: pPlane26 8
+    400648: pPlane26 9
+    400650: pPlane27
+    400652: pPlane27 1
+    400654: pPlane27 10
+    400656: pPlane27 11
+    400658: pPlane27 12
+    400660: pPlane27 2
+    400662: pPlane27 3
+    400664: pPlane27 4
+    400666: pPlane27 5
+    400668: pPlane27 6
+    400670: pPlane27 7
+    400672: pPlane27 8
+    400674: pPlane27 9
+    400676: pPlane28
+    400678: pPlane28 1
+    400680: pPlane28 10
+    400682: pPlane28 11
+    400684: pPlane28 12
+    400686: pPlane28 2
+    400688: pPlane28 3
+    400690: pPlane28 4
+    400692: pPlane28 5
+    400694: pPlane28 6
+    400696: pPlane28 7
+    400698: pPlane28 8
+    400700: pPlane28 9
+    400702: pPlane29
+    400704: pPlane29 1
+    400706: pPlane29 10
+    400708: pPlane29 11
+    400710: pPlane29 2
+    400712: pPlane29 3
+    400714: pPlane29 4
+    400716: pPlane29 5
+    400718: pPlane29 6
+    400720: pPlane29 7
+    400722: pPlane29 8
+    400724: pPlane29 9
+    400726: pPlane30
+    400728: pPlane30 1
+    400730: pPlane30 10
+    400732: pPlane30 11
+    400734: pPlane30 12
+    400736: pPlane30 13
+    400738: pPlane30 14
+    400740: pPlane30 2
+    400742: pPlane30 3
+    400744: pPlane30 4
+    400746: pPlane30 5
+    400748: pPlane30 6
+    400750: pPlane30 7
+    400752: pPlane30 8
+    400754: pPlane30 9
+    400756: pPlane31
+    400758: pPlane31 1
+    400760: pPlane31 2
+    400762: pPlane31 3
+    400764: pPlane31 4
+    400766: pPlane31 5
+    400768: pPlane31 6
+    400770: pPlane31 7
+    400772: pPlane32
+    400774: pPlane32 1
+    400776: pPlane32 10
+    400778: pPlane32 11
+    400780: pPlane32 12
+    400782: pPlane32 13
+    400784: pPlane32 2
+    400786: pPlane32 3
+    400788: pPlane32 4
+    400790: pPlane32 5
+    400792: pPlane32 6
+    400794: pPlane32 7
+    400796: pPlane32 8
+    400798: pPlane32 9
+    400800: pPlane33
+    400802: pPlane33 1
+    400804: pPlane33 10
+    400806: pPlane33 11
+    400808: pPlane33 12
+    400810: pPlane33 13
+    400812: pPlane33 2
+    400814: pPlane33 3
+    400816: pPlane33 4
+    400818: pPlane33 5
+    400820: pPlane33 6
+    400822: pPlane33 7
+    400824: pPlane33 8
+    400826: pPlane33 9
+    400828: pPlane34
+    400830: pPlane34 1
+    400832: pPlane34 10
+    400834: pPlane34 11
+    400836: pPlane34 12
+    400838: pPlane34 13
+    400840: pPlane34 2
+    400842: pPlane34 3
+    400844: pPlane34 4
+    400846: pPlane34 5
+    400848: pPlane34 6
+    400850: pPlane34 7
+    400852: pPlane34 8
+    400854: pPlane34 9
+    400856: pPlane35
+    400858: pPlane35 1
+    400860: pPlane35 10
+    400862: pPlane35 11
+    400864: pPlane35 12
+    400866: pPlane35 2
+    400868: pPlane35 3
+    400870: pPlane35 4
+    400872: pPlane35 5
+    400874: pPlane35 6
+    400876: pPlane35 7
+    400878: pPlane35 8
+    400880: pPlane35 9
+    400882: pPlane36
+    400884: pPlane36 1
+    400886: pPlane36 10
+    400888: pPlane36 11
+    400890: pPlane36 12
+    400892: pPlane36 2
+    400894: pPlane36 3
+    400896: pPlane36 4
+    400898: pPlane36 5
+    400900: pPlane36 6
+    400902: pPlane36 7
+    400904: pPlane36 8
+    400906: pPlane36 9
+    400908: pPlane55
+    400910: pPlane56
+    400912: pPlane57
+    400914: pPlane58
+    400916: pPlane59
+    400918: pPlane60
+    400920: pPlane61
+    400922: pPlane62
+    400924: pPlane63
+    400926: pPlane64
+    400928: pPlane65
+    400930: pPlane66
+    400932: pPlane67
+    400934: pPlane68
+    400936: pPlane69
+    400938: pPlane70
+    400940: pPlane71
+    400942: pPlane72
+    400944: pPlane73
+    400946: pPlane74
+    400948: pPlane75
+    400950: pPlane76
+    400952: pPlane77
+    400954: pPlane78
+    400956: pPlane79
+    400958: pPlane80
+    400960: pPlane81
+    400962: pPlane82
+    400964: pPlane83
+    400966: pPlane84
+    400968: pPlane85
+    400970: pPlane86
+    400972: pPlane87
+    400974: pPlane88
+    400976: pPlane89
+    400978: pPlane90
+    400980: pPlane91
+    400982: pPlane92
+    400984: pPlane93
+    400986: pPlane94
+    400988: pPlane95
+    400990: pPlane96
+    400992: pPlane97
+    400994: pPlane98
+    400996: SM_DeadBush_03
+    400998: SM_DeadBush_03 1
+    401000: SM_DeadBush_04
+    401002: SM_DeadBush_04 1
+    401004: SM_Fern_01
+    401006: SM_Fern_010
+    401008: SM_Fern_011
+    401010: SM_Fern_012
+    401012: SM_Fern_013
+    401014: SM_Fern_014
+    401016: SM_Fern_02
+    401018: SM_Fern_03
+    401020: SM_Fern_04
+    401022: SM_Fern_07
+    401024: SM_Fern_08
+    401026: SM_Fern_09
+    401028: SM_Small_Rock_01
+    401030: SM_Small_Rock_02
+    401032: SM_Small_Rock_03
+    401034: Tree
+    401036: Tree_2
+    401038: Tree_3
+    401040: Twigs
+    401042: Twigs1
+    401044: Wood_Log_03
+    2100000: pasted__M_MountainDefault
+    2100002: pasted__lambert5
+    2100004: 01 - Default1
+    2100006: blinn3
+    2100008: 01 - Default3
+    2100010: M_MountainDefault
+    2100012: pasted__lambert3
+    2100014: pasted__lambert4
+    2100016: Path
+    2100018: DEsert
+    2100020: pasted__rocktest
+    2100022: pasted__M_Sand3
+    2100024: Ferns
+    2100026: Ferns2
+    2100028: blinn9
+    2100030: blinn8
+    2100032: pasted__Dead_Bush
+    2100034: 'pasted__Material #551499603'
+    2100036: lambert2
+    2100038: lambert3
+    2100040: lambert7
+    2100042: lambert9
+    2100044: lambert4
+    2100046: lambert5
+    2100048: lambert6
+    2100050: Rocks
+    2100052: Dead_Bush
+    2100054: blinn5
+    2100056: 02 - Default1
+    2100058: 01 - Default4
+    2100060: pasted__M_Outhouse
+    2300000: Mountain
+    2300002: Obstacle_1
+    2300004: Obstacle_2
+    2300006: Obstacle_9
+    2300008: Palm_Tree_Leaves
+    2300010: Palm_Tree_Leaves1
+    2300012: Palm_Tree_Stump
+    2300014: Palm_Tree_Stump1
+    2300016: Palm_Trees1_Palm_Tree_Leaves
+    2300018: Palm_Trees1_Palm_Tree_Leaves1
+    2300020: pasted__Hut_3
+    2300022: pasted__SkeletalMeshComponent0
+    2300024: pasted__SM_DeadBush_02
+    2300026: pCylinder2
+    2300028: polySurface1115
+    2300030: polySurface1119
+    2300032: polySurface1123
+    2300034: polySurface1127
+    2300036: polySurface1418
+    2300038: polySurface1429
+    2300040: polySurface1435
+    2300042: polySurface1446
+    2300044: polySurface1447
+    2300046: polySurface1471
+    2300048: polySurface1472
+    2300050: polySurface1483
+    2300052: polySurface1491
+    2300054: polySurface1493
+    2300056: polySurface1494
+    2300058: polySurface1495
+    2300060: polySurface1496
+    2300062: polySurface1497
+    2300064: polySurface1498
+    2300066: polySurface1499
+    2300068: polySurface1500
+    2300070: polySurface1501
+    2300072: polySurface1502
+    2300074: polySurface1503
+    2300076: polySurface1504
+    2300078: polySurface1505
+    2300080: polySurface1506
+    2300082: polySurface1508
+    2300084: polySurface1510
+    2300086: polySurface1511
+    2300088: polySurface1512
+    2300090: polySurface1513
+    2300092: polySurface1514
+    2300094: polySurface1515
+    2300096: polySurface1516
+    2300098: polySurface1517
+    2300100: polySurface1518
+    2300102: polySurface1519
+    2300104: polySurface1520
+    2300106: polySurface1521
+    2300108: polySurface1522
+    2300110: polySurface1523
+    2300112: polySurface1524
+    2300114: polySurface1525
+    2300116: polySurface1526
+    2300118: polySurface1527
+    2300120: polySurface1528
+    2300122: polySurface1529
+    2300124: polySurface1530
+    2300126: polySurface1531
+    2300128: polySurface1532
+    2300130: polySurface1533
+    2300132: polySurface1534
+    2300134: polySurface1535
+    2300136: polySurface1536
+    2300138: polySurface1537
+    2300140: polySurface1538
+    2300142: polySurface1539
+    2300144: polySurface1540
+    2300146: polySurface1541
+    2300148: polySurface1542
+    2300150: polySurface1543
+    2300152: polySurface1544
+    2300154: polySurface1545
+    2300156: polySurface1546
+    2300158: polySurface1547
+    2300160: polySurface1548
+    2300162: polySurface1549
+    2300164: polySurface1550
+    2300166: polySurface1551
+    2300168: polySurface1552
+    2300170: polySurface1553
+    2300172: polySurface1554
+    2300174: polySurface1555
+    2300176: polySurface1556
+    2300178: polySurface1557
+    2300180: polySurface1558
+    2300182: polySurface1560
+    2300184: polySurface1561
+    2300186: polySurface1562
+    2300188: polySurface1564
+    2300190: polySurface1565
+    2300192: polySurface1566
+    2300194: polySurface1568
+    2300196: polySurface1569
+    2300198: polySurface1571
+    2300200: polySurface1572
+    2300202: polySurface1573
+    2300204: polySurface1574
+    2300206: polySurface1575
+    2300208: polySurface1576
+    2300210: polySurface1577
+    2300212: polySurface1579
+    2300214: polySurface1580
+    2300216: polySurface1581
+    2300218: polySurface1582
+    2300220: polySurface1583
+    2300222: polySurface1584
+    2300224: polySurface1585
+    2300226: polySurface1587
+    2300228: polySurface1588
+    2300230: polySurface1590
+    2300232: polySurface1591
+    2300234: polySurface1592
+    2300236: polySurface1593
+    2300238: polySurface1594
+    2300240: polySurface1595
+    2300242: polySurface1596
+    2300244: polySurface1597
+    2300246: polySurface1598
+    2300248: polySurface1599
+    2300250: polySurface1600
+    2300252: polySurface1601
+    2300254: polySurface1602
+    2300256: polySurface1603
+    2300258: polySurface1604
+    2300260: polySurface1606
+    2300262: polySurface1607
+    2300264: polySurface1608
+    2300266: polySurface1609
+    2300268: polySurface1610
+    2300270: polySurface1611
+    2300272: polySurface1612
+    2300274: polySurface1613
+    2300276: polySurface1614
+    2300278: polySurface1615
+    2300280: polySurface1617
+    2300282: polySurface1618
+    2300284: polySurface1620
+    2300286: polySurface1621
+    2300288: polySurface1622
+    2300290: polySurface1623
+    2300292: polySurface1624
+    2300294: polySurface1625
+    2300296: polySurface1626
+    2300298: polySurface1627
+    2300300: polySurface1628
+    2300302: polySurface1629
+    2300304: polySurface1630
+    2300306: polySurface1631
+    2300308: polySurface1632
+    2300310: polySurface1633
+    2300312: polySurface1635
+    2300314: polySurface1636
+    2300316: polySurface1637
+    2300318: polySurface1638
+    2300320: polySurface1677
+    2300322: polySurface1678
+    2300324: polySurface270
+    2300326: polySurface299
+    2300328: polySurface332
+    2300330: polySurface371
+    2300332: polySurface377
+    2300334: polySurface378
+    2300336: polySurface379
+    2300338: polySurface382
+    2300340: polySurface387
+    2300342: polySurface388
+    2300344: polySurface394
+    2300346: polySurface398
+    2300348: polySurface433
+    2300350: polySurface434
+    2300352: polySurface447
+    2300354: pPlane18
+    2300356: pPlane18 1
+    2300358: pPlane18 2
+    2300360: pPlane18 3
+    2300362: pPlane18 4
+    2300364: pPlane18 5
+    2300366: pPlane18 6
+    2300368: pPlane18 7
+    2300370: pPlane19
+    2300372: pPlane19 1
+    2300374: pPlane19 10
+    2300376: pPlane19 11
+    2300378: pPlane19 12
+    2300380: pPlane19 13
+    2300382: pPlane19 2
+    2300384: pPlane19 3
+    2300386: pPlane19 4
+    2300388: pPlane19 5
+    2300390: pPlane19 6
+    2300392: pPlane19 7
+    2300394: pPlane19 8
+    2300396: pPlane19 9
+    2300398: pPlane2
+    2300400: pPlane20
+    2300402: pPlane20 1
+    2300404: pPlane20 10
+    2300406: pPlane20 11
+    2300408: pPlane20 12
+    2300410: pPlane20 13
+    2300412: pPlane20 2
+    2300414: pPlane20 3
+    2300416: pPlane20 4
+    2300418: pPlane20 5
+    2300420: pPlane20 6
+    2300422: pPlane20 7
+    2300424: pPlane20 8
+    2300426: pPlane20 9
+    2300428: pPlane21
+    2300430: pPlane21 1
+    2300432: pPlane21 10
+    2300434: pPlane21 11
+    2300436: pPlane21 12
+    2300438: pPlane21 13
+    2300440: pPlane21 2
+    2300442: pPlane21 3
+    2300444: pPlane21 4
+    2300446: pPlane21 5
+    2300448: pPlane21 6
+    2300450: pPlane21 7
+    2300452: pPlane21 8
+    2300454: pPlane21 9
+    2300456: pPlane22
+    2300458: pPlane22 1
+    2300460: pPlane22 10
+    2300462: pPlane22 11
+    2300464: pPlane22 12
+    2300466: pPlane22 13
+    2300468: pPlane22 14
+    2300470: pPlane22 2
+    2300472: pPlane22 3
+    2300474: pPlane22 4
+    2300476: pPlane22 5
+    2300478: pPlane22 6
+    2300480: pPlane22 7
+    2300482: pPlane22 8
+    2300484: pPlane22 9
+    2300486: pPlane23
+    2300488: pPlane23 1
+    2300490: pPlane23 2
+    2300492: pPlane23 3
+    2300494: pPlane23 4
+    2300496: pPlane23 5
+    2300498: pPlane23 6
+    2300500: pPlane23 7
+    2300502: pPlane24
+    2300504: pPlane24 1
+    2300506: pPlane24 10
+    2300508: pPlane24 11
+    2300510: pPlane24 12
+    2300512: pPlane24 13
+    2300514: pPlane24 2
+    2300516: pPlane24 3
+    2300518: pPlane24 4
+    2300520: pPlane24 5
+    2300522: pPlane24 6
+    2300524: pPlane24 7
+    2300526: pPlane24 8
+    2300528: pPlane24 9
+    2300530: pPlane25
+    2300532: pPlane25 1
+    2300534: pPlane25 10
+    2300536: pPlane25 11
+    2300538: pPlane25 12
+    2300540: pPlane25 13
+    2300542: pPlane25 14
+    2300544: pPlane25 2
+    2300546: pPlane25 3
+    2300548: pPlane25 4
+    2300550: pPlane25 5
+    2300552: pPlane25 6
+    2300554: pPlane25 7
+    2300556: pPlane25 8
+    2300558: pPlane25 9
+    2300560: pPlane26
+    2300562: pPlane26 1
+    2300564: pPlane26 10
+    2300566: pPlane26 11
+    2300568: pPlane26 12
+    2300570: pPlane26 13
+    2300572: pPlane26 2
+    2300574: pPlane26 3
+    2300576: pPlane26 4
+    2300578: pPlane26 5
+    2300580: pPlane26 6
+    2300582: pPlane26 7
+    2300584: pPlane26 8
+    2300586: pPlane26 9
+    2300588: pPlane27
+    2300590: pPlane27 1
+    2300592: pPlane27 10
+    2300594: pPlane27 11
+    2300596: pPlane27 12
+    2300598: pPlane27 2
+    2300600: pPlane27 3
+    2300602: pPlane27 4
+    2300604: pPlane27 5
+    2300606: pPlane27 6
+    2300608: pPlane27 7
+    2300610: pPlane27 8
+    2300612: pPlane27 9
+    2300614: pPlane28
+    2300616: pPlane28 1
+    2300618: pPlane28 10
+    2300620: pPlane28 11
+    2300622: pPlane28 12
+    2300624: pPlane28 2
+    2300626: pPlane28 3
+    2300628: pPlane28 4
+    2300630: pPlane28 5
+    2300632: pPlane28 6
+    2300634: pPlane28 7
+    2300636: pPlane28 8
+    2300638: pPlane28 9
+    2300640: pPlane29
+    2300642: pPlane29 1
+    2300644: pPlane29 10
+    2300646: pPlane29 11
+    2300648: pPlane29 2
+    2300650: pPlane29 3
+    2300652: pPlane29 4
+    2300654: pPlane29 5
+    2300656: pPlane29 6
+    2300658: pPlane29 7
+    2300660: pPlane29 8
+    2300662: pPlane29 9
+    2300664: pPlane30
+    2300666: pPlane30 1
+    2300668: pPlane30 10
+    2300670: pPlane30 11
+    2300672: pPlane30 12
+    2300674: pPlane30 13
+    2300676: pPlane30 14
+    2300678: pPlane30 2
+    2300680: pPlane30 3
+    2300682: pPlane30 4
+    2300684: pPlane30 5
+    2300686: pPlane30 6
+    2300688: pPlane30 7
+    2300690: pPlane30 8
+    2300692: pPlane30 9
+    2300694: pPlane31
+    2300696: pPlane31 1
+    2300698: pPlane31 2
+    2300700: pPlane31 3
+    2300702: pPlane31 4
+    2300704: pPlane31 5
+    2300706: pPlane31 6
+    2300708: pPlane31 7
+    2300710: pPlane32
+    2300712: pPlane32 1
+    2300714: pPlane32 10
+    2300716: pPlane32 11
+    2300718: pPlane32 12
+    2300720: pPlane32 13
+    2300722: pPlane32 2
+    2300724: pPlane32 3
+    2300726: pPlane32 4
+    2300728: pPlane32 5
+    2300730: pPlane32 6
+    2300732: pPlane32 7
+    2300734: pPlane32 8
+    2300736: pPlane32 9
+    2300738: pPlane33
+    2300740: pPlane33 1
+    2300742: pPlane33 10
+    2300744: pPlane33 11
+    2300746: pPlane33 12
+    2300748: pPlane33 13
+    2300750: pPlane33 2
+    2300752: pPlane33 3
+    2300754: pPlane33 4
+    2300756: pPlane33 5
+    2300758: pPlane33 6
+    2300760: pPlane33 7
+    2300762: pPlane33 8
+    2300764: pPlane33 9
+    2300766: pPlane34
+    2300768: pPlane34 1
+    2300770: pPlane34 10
+    2300772: pPlane34 11
+    2300774: pPlane34 12
+    2300776: pPlane34 13
+    2300778: pPlane34 2
+    2300780: pPlane34 3
+    2300782: pPlane34 4
+    2300784: pPlane34 5
+    2300786: pPlane34 6
+    2300788: pPlane34 7
+    2300790: pPlane34 8
+    2300792: pPlane34 9
+    2300794: pPlane35
+    2300796: pPlane35 1
+    2300798: pPlane35 10
+    2300800: pPlane35 11
+    2300802: pPlane35 12
+    2300804: pPlane35 2
+    2300806: pPlane35 3
+    2300808: pPlane35 4
+    2300810: pPlane35 5
+    2300812: pPlane35 6
+    2300814: pPlane35 7
+    2300816: pPlane35 8
+    2300818: pPlane35 9
+    2300820: pPlane36
+    2300822: pPlane36 1
+    2300824: pPlane36 10
+    2300826: pPlane36 11
+    2300828: pPlane36 12
+    2300830: pPlane36 2
+    2300832: pPlane36 3
+    2300834: pPlane36 4
+    2300836: pPlane36 5
+    2300838: pPlane36 6
+    2300840: pPlane36 7
+    2300842: pPlane36 8
+    2300844: pPlane36 9
+    2300846: pPlane55
+    2300848: pPlane56
+    2300850: pPlane57
+    2300852: pPlane58
+    2300854: pPlane59
+    2300856: pPlane60
+    2300858: pPlane61
+    2300860: pPlane62
+    2300862: pPlane63
+    2300864: pPlane64
+    2300866: pPlane65
+    2300868: pPlane66
+    2300870: pPlane67
+    2300872: pPlane68
+    2300874: pPlane69
+    2300876: pPlane70
+    2300878: pPlane71
+    2300880: pPlane72
+    2300882: pPlane73
+    2300884: pPlane74
+    2300886: pPlane75
+    2300888: pPlane76
+    2300890: pPlane77
+    2300892: pPlane78
+    2300894: pPlane79
+    2300896: pPlane80
+    2300898: pPlane81
+    2300900: pPlane82
+    2300902: pPlane83
+    2300904: pPlane84
+    2300906: pPlane85
+    2300908: pPlane86
+    2300910: pPlane87
+    2300912: pPlane88
+    2300914: pPlane89
+    2300916: pPlane90
+    2300918: pPlane91
+    2300920: pPlane92
+    2300922: pPlane93
+    2300924: pPlane94
+    2300926: pPlane95
+    2300928: pPlane96
+    2300930: pPlane97
+    2300932: pPlane98
+    2300934: SM_DeadBush_03
+    2300936: SM_DeadBush_03 1
+    2300938: SM_DeadBush_04
+    2300940: SM_DeadBush_04 1
+    2300942: SM_Fern_01
+    2300944: SM_Fern_010
+    2300946: SM_Fern_011
+    2300948: SM_Fern_012
+    2300950: SM_Fern_013
+    2300952: SM_Fern_014
+    2300954: SM_Fern_02
+    2300956: SM_Fern_03
+    2300958: SM_Fern_04
+    2300960: SM_Fern_07
+    2300962: SM_Fern_08
+    2300964: SM_Fern_09
+    2300966: SM_Small_Rock_01
+    2300968: SM_Small_Rock_02
+    2300970: SM_Small_Rock_03
+    2300972: Tree
+    2300974: Tree_2
+    2300976: Tree_3
+    2300978: Wood_Log_03
+    3300000: Mountain
+    3300002: Obstacle_1
+    3300004: Obstacle_2
+    3300006: Obstacle_9
+    3300008: Palm_Tree_Leaves
+    3300010: Palm_Tree_Leaves1
+    3300012: Palm_Tree_Stump
+    3300014: Palm_Tree_Stump1
+    3300016: Palm_Trees1_Palm_Tree_Leaves
+    3300018: Palm_Trees1_Palm_Tree_Leaves1
+    3300020: pasted__Hut_3
+    3300022: pasted__SkeletalMeshComponent0
+    3300024: pasted__SM_DeadBush_02
+    3300026: pCylinder2
+    3300028: polySurface1115
+    3300030: polySurface1119
+    3300032: polySurface1123
+    3300034: polySurface1127
+    3300036: polySurface1418
+    3300038: polySurface1429
+    3300040: polySurface1435
+    3300042: polySurface1446
+    3300044: polySurface1447
+    3300046: polySurface1471
+    3300048: polySurface1472
+    3300050: polySurface1483
+    3300052: polySurface1491
+    3300054: polySurface1493
+    3300056: polySurface1494
+    3300058: polySurface1495
+    3300060: polySurface1496
+    3300062: polySurface1497
+    3300064: polySurface1498
+    3300066: polySurface1499
+    3300068: polySurface1500
+    3300070: polySurface1501
+    3300072: polySurface1502
+    3300074: polySurface1503
+    3300076: polySurface1504
+    3300078: polySurface1505
+    3300080: polySurface1506
+    3300082: polySurface1508
+    3300084: polySurface1510
+    3300086: polySurface1511
+    3300088: polySurface1512
+    3300090: polySurface1513
+    3300092: polySurface1514
+    3300094: polySurface1515
+    3300096: polySurface1516
+    3300098: polySurface1517
+    3300100: polySurface1518
+    3300102: polySurface1519
+    3300104: polySurface1520
+    3300106: polySurface1521
+    3300108: polySurface1522
+    3300110: polySurface1523
+    3300112: polySurface1524
+    3300114: polySurface1525
+    3300116: polySurface1526
+    3300118: polySurface1527
+    3300120: polySurface1528
+    3300122: polySurface1529
+    3300124: polySurface1530
+    3300126: polySurface1531
+    3300128: polySurface1532
+    3300130: polySurface1533
+    3300132: polySurface1534
+    3300134: polySurface1535
+    3300136: polySurface1536
+    3300138: polySurface1537
+    3300140: polySurface1538
+    3300142: polySurface1539
+    3300144: polySurface1540
+    3300146: polySurface1541
+    3300148: polySurface1542
+    3300150: polySurface1543
+    3300152: polySurface1544
+    3300154: polySurface1545
+    3300156: polySurface1546
+    3300158: polySurface1547
+    3300160: polySurface1548
+    3300162: polySurface1549
+    3300164: polySurface1550
+    3300166: polySurface1551
+    3300168: polySurface1552
+    3300170: polySurface1553
+    3300172: polySurface1554
+    3300174: polySurface1555
+    3300176: polySurface1556
+    3300178: polySurface1557
+    3300180: polySurface1558
+    3300182: polySurface1560
+    3300184: polySurface1561
+    3300186: polySurface1562
+    3300188: polySurface1564
+    3300190: polySurface1565
+    3300192: polySurface1566
+    3300194: polySurface1568
+    3300196: polySurface1569
+    3300198: polySurface1571
+    3300200: polySurface1572
+    3300202: polySurface1573
+    3300204: polySurface1574
+    3300206: polySurface1575
+    3300208: polySurface1576
+    3300210: polySurface1577
+    3300212: polySurface1579
+    3300214: polySurface1580
+    3300216: polySurface1581
+    3300218: polySurface1582
+    3300220: polySurface1583
+    3300222: polySurface1584
+    3300224: polySurface1585
+    3300226: polySurface1587
+    3300228: polySurface1588
+    3300230: polySurface1590
+    3300232: polySurface1591
+    3300234: polySurface1592
+    3300236: polySurface1593
+    3300238: polySurface1594
+    3300240: polySurface1595
+    3300242: polySurface1596
+    3300244: polySurface1597
+    3300246: polySurface1598
+    3300248: polySurface1599
+    3300250: polySurface1600
+    3300252: polySurface1601
+    3300254: polySurface1602
+    3300256: polySurface1603
+    3300258: polySurface1604
+    3300260: polySurface1606
+    3300262: polySurface1607
+    3300264: polySurface1608
+    3300266: polySurface1609
+    3300268: polySurface1610
+    3300270: polySurface1611
+    3300272: polySurface1612
+    3300274: polySurface1613
+    3300276: polySurface1614
+    3300278: polySurface1615
+    3300280: polySurface1617
+    3300282: polySurface1618
+    3300284: polySurface1620
+    3300286: polySurface1621
+    3300288: polySurface1622
+    3300290: polySurface1623
+    3300292: polySurface1624
+    3300294: polySurface1625
+    3300296: polySurface1626
+    3300298: polySurface1627
+    3300300: polySurface1628
+    3300302: polySurface1629
+    3300304: polySurface1630
+    3300306: polySurface1631
+    3300308: polySurface1632
+    3300310: polySurface1633
+    3300312: polySurface1635
+    3300314: polySurface1636
+    3300316: polySurface1637
+    3300318: polySurface1638
+    3300320: polySurface1677
+    3300322: polySurface1678
+    3300324: polySurface270
+    3300326: polySurface299
+    3300328: polySurface332
+    3300330: polySurface371
+    3300332: polySurface377
+    3300334: polySurface378
+    3300336: polySurface379
+    3300338: polySurface382
+    3300340: polySurface387
+    3300342: polySurface388
+    3300344: polySurface394
+    3300346: polySurface398
+    3300348: polySurface433
+    3300350: polySurface434
+    3300352: polySurface447
+    3300354: pPlane18
+    3300356: pPlane18 1
+    3300358: pPlane18 2
+    3300360: pPlane18 3
+    3300362: pPlane18 4
+    3300364: pPlane18 5
+    3300366: pPlane18 6
+    3300368: pPlane18 7
+    3300370: pPlane19
+    3300372: pPlane19 1
+    3300374: pPlane19 10
+    3300376: pPlane19 11
+    3300378: pPlane19 12
+    3300380: pPlane19 13
+    3300382: pPlane19 2
+    3300384: pPlane19 3
+    3300386: pPlane19 4
+    3300388: pPlane19 5
+    3300390: pPlane19 6
+    3300392: pPlane19 7
+    3300394: pPlane19 8
+    3300396: pPlane19 9
+    3300398: pPlane2
+    3300400: pPlane20
+    3300402: pPlane20 1
+    3300404: pPlane20 10
+    3300406: pPlane20 11
+    3300408: pPlane20 12
+    3300410: pPlane20 13
+    3300412: pPlane20 2
+    3300414: pPlane20 3
+    3300416: pPlane20 4
+    3300418: pPlane20 5
+    3300420: pPlane20 6
+    3300422: pPlane20 7
+    3300424: pPlane20 8
+    3300426: pPlane20 9
+    3300428: pPlane21
+    3300430: pPlane21 1
+    3300432: pPlane21 10
+    3300434: pPlane21 11
+    3300436: pPlane21 12
+    3300438: pPlane21 13
+    3300440: pPlane21 2
+    3300442: pPlane21 3
+    3300444: pPlane21 4
+    3300446: pPlane21 5
+    3300448: pPlane21 6
+    3300450: pPlane21 7
+    3300452: pPlane21 8
+    3300454: pPlane21 9
+    3300456: pPlane22
+    3300458: pPlane22 1
+    3300460: pPlane22 10
+    3300462: pPlane22 11
+    3300464: pPlane22 12
+    3300466: pPlane22 13
+    3300468: pPlane22 14
+    3300470: pPlane22 2
+    3300472: pPlane22 3
+    3300474: pPlane22 4
+    3300476: pPlane22 5
+    3300478: pPlane22 6
+    3300480: pPlane22 7
+    3300482: pPlane22 8
+    3300484: pPlane22 9
+    3300486: pPlane23
+    3300488: pPlane23 1
+    3300490: pPlane23 2
+    3300492: pPlane23 3
+    3300494: pPlane23 4
+    3300496: pPlane23 5
+    3300498: pPlane23 6
+    3300500: pPlane23 7
+    3300502: pPlane24
+    3300504: pPlane24 1
+    3300506: pPlane24 10
+    3300508: pPlane24 11
+    3300510: pPlane24 12
+    3300512: pPlane24 13
+    3300514: pPlane24 2
+    3300516: pPlane24 3
+    3300518: pPlane24 4
+    3300520: pPlane24 5
+    3300522: pPlane24 6
+    3300524: pPlane24 7
+    3300526: pPlane24 8
+    3300528: pPlane24 9
+    3300530: pPlane25
+    3300532: pPlane25 1
+    3300534: pPlane25 10
+    3300536: pPlane25 11
+    3300538: pPlane25 12
+    3300540: pPlane25 13
+    3300542: pPlane25 14
+    3300544: pPlane25 2
+    3300546: pPlane25 3
+    3300548: pPlane25 4
+    3300550: pPlane25 5
+    3300552: pPlane25 6
+    3300554: pPlane25 7
+    3300556: pPlane25 8
+    3300558: pPlane25 9
+    3300560: pPlane26
+    3300562: pPlane26 1
+    3300564: pPlane26 10
+    3300566: pPlane26 11
+    3300568: pPlane26 12
+    3300570: pPlane26 13
+    3300572: pPlane26 2
+    3300574: pPlane26 3
+    3300576: pPlane26 4
+    3300578: pPlane26 5
+    3300580: pPlane26 6
+    3300582: pPlane26 7
+    3300584: pPlane26 8
+    3300586: pPlane26 9
+    3300588: pPlane27
+    3300590: pPlane27 1
+    3300592: pPlane27 10
+    3300594: pPlane27 11
+    3300596: pPlane27 12
+    3300598: pPlane27 2
+    3300600: pPlane27 3
+    3300602: pPlane27 4
+    3300604: pPlane27 5
+    3300606: pPlane27 6
+    3300608: pPlane27 7
+    3300610: pPlane27 8
+    3300612: pPlane27 9
+    3300614: pPlane28
+    3300616: pPlane28 1
+    3300618: pPlane28 10
+    3300620: pPlane28 11
+    3300622: pPlane28 12
+    3300624: pPlane28 2
+    3300626: pPlane28 3
+    3300628: pPlane28 4
+    3300630: pPlane28 5
+    3300632: pPlane28 6
+    3300634: pPlane28 7
+    3300636: pPlane28 8
+    3300638: pPlane28 9
+    3300640: pPlane29
+    3300642: pPlane29 1
+    3300644: pPlane29 10
+    3300646: pPlane29 11
+    3300648: pPlane29 2
+    3300650: pPlane29 3
+    3300652: pPlane29 4
+    3300654: pPlane29 5
+    3300656: pPlane29 6
+    3300658: pPlane29 7
+    3300660: pPlane29 8
+    3300662: pPlane29 9
+    3300664: pPlane30
+    3300666: pPlane30 1
+    3300668: pPlane30 10
+    3300670: pPlane30 11
+    3300672: pPlane30 12
+    3300674: pPlane30 13
+    3300676: pPlane30 14
+    3300678: pPlane30 2
+    3300680: pPlane30 3
+    3300682: pPlane30 4
+    3300684: pPlane30 5
+    3300686: pPlane30 6
+    3300688: pPlane30 7
+    3300690: pPlane30 8
+    3300692: pPlane30 9
+    3300694: pPlane31
+    3300696: pPlane31 1
+    3300698: pPlane31 2
+    3300700: pPlane31 3
+    3300702: pPlane31 4
+    3300704: pPlane31 5
+    3300706: pPlane31 6
+    3300708: pPlane31 7
+    3300710: pPlane32
+    3300712: pPlane32 1
+    3300714: pPlane32 10
+    3300716: pPlane32 11
+    3300718: pPlane32 12
+    3300720: pPlane32 13
+    3300722: pPlane32 2
+    3300724: pPlane32 3
+    3300726: pPlane32 4
+    3300728: pPlane32 5
+    3300730: pPlane32 6
+    3300732: pPlane32 7
+    3300734: pPlane32 8
+    3300736: pPlane32 9
+    3300738: pPlane33
+    3300740: pPlane33 1
+    3300742: pPlane33 10
+    3300744: pPlane33 11
+    3300746: pPlane33 12
+    3300748: pPlane33 13
+    3300750: pPlane33 2
+    3300752: pPlane33 3
+    3300754: pPlane33 4
+    3300756: pPlane33 5
+    3300758: pPlane33 6
+    3300760: pPlane33 7
+    3300762: pPlane33 8
+    3300764: pPlane33 9
+    3300766: pPlane34
+    3300768: pPlane34 1
+    3300770: pPlane34 10
+    3300772: pPlane34 11
+    3300774: pPlane34 12
+    3300776: pPlane34 13
+    3300778: pPlane34 2
+    3300780: pPlane34 3
+    3300782: pPlane34 4
+    3300784: pPlane34 5
+    3300786: pPlane34 6
+    3300788: pPlane34 7
+    3300790: pPlane34 8
+    3300792: pPlane34 9
+    3300794: pPlane35
+    3300796: pPlane35 1
+    3300798: pPlane35 10
+    3300800: pPlane35 11
+    3300802: pPlane35 12
+    3300804: pPlane35 2
+    3300806: pPlane35 3
+    3300808: pPlane35 4
+    3300810: pPlane35 5
+    3300812: pPlane35 6
+    3300814: pPlane35 7
+    3300816: pPlane35 8
+    3300818: pPlane35 9
+    3300820: pPlane36
+    3300822: pPlane36 1
+    3300824: pPlane36 10
+    3300826: pPlane36 11
+    3300828: pPlane36 12
+    3300830: pPlane36 2
+    3300832: pPlane36 3
+    3300834: pPlane36 4
+    3300836: pPlane36 5
+    3300838: pPlane36 6
+    3300840: pPlane36 7
+    3300842: pPlane36 8
+    3300844: pPlane36 9
+    3300846: pPlane55
+    3300848: pPlane56
+    3300850: pPlane57
+    3300852: pPlane58
+    3300854: pPlane59
+    3300856: pPlane60
+    3300858: pPlane61
+    3300860: pPlane62
+    3300862: pPlane63
+    3300864: pPlane64
+    3300866: pPlane65
+    3300868: pPlane66
+    3300870: pPlane67
+    3300872: pPlane68
+    3300874: pPlane69
+    3300876: pPlane70
+    3300878: pPlane71
+    3300880: pPlane72
+    3300882: pPlane73
+    3300884: pPlane74
+    3300886: pPlane75
+    3300888: pPlane76
+    3300890: pPlane77
+    3300892: pPlane78
+    3300894: pPlane79
+    3300896: pPlane80
+    3300898: pPlane81
+    3300900: pPlane82
+    3300902: pPlane83
+    3300904: pPlane84
+    3300906: pPlane85
+    3300908: pPlane86
+    3300910: pPlane87
+    3300912: pPlane88
+    3300914: pPlane89
+    3300916: pPlane90
+    3300918: pPlane91
+    3300920: pPlane92
+    3300922: pPlane93
+    3300924: pPlane94
+    3300926: pPlane95
+    3300928: pPlane96
+    3300930: pPlane97
+    3300932: pPlane98
+    3300934: SM_DeadBush_03
+    3300936: SM_DeadBush_03 1
+    3300938: SM_DeadBush_04
+    3300940: SM_DeadBush_04 1
+    3300942: SM_Fern_01
+    3300944: SM_Fern_010
+    3300946: SM_Fern_011
+    3300948: SM_Fern_012
+    3300950: SM_Fern_013
+    3300952: SM_Fern_014
+    3300954: SM_Fern_02
+    3300956: SM_Fern_03
+    3300958: SM_Fern_04
+    3300960: SM_Fern_07
+    3300962: SM_Fern_08
+    3300964: SM_Fern_09
+    3300966: SM_Small_Rock_01
+    3300968: SM_Small_Rock_02
+    3300970: SM_Small_Rock_03
+    3300972: Tree
+    3300974: Tree_2
+    3300976: Tree_3
+    3300978: Wood_Log_03
+    4300000: polySurface377
+    4300002: polySurface378
+    4300004: polySurface379
+    4300006: polySurface382
+    4300008: polySurface387
+    4300010: polySurface433
+    4300012: polySurface434
+    4300014: polySurface1622
+    4300016: polySurface1624
+    4300018: polySurface398
+    4300020: polySurface388
+    4300022: polySurface332
+    4300024: polySurface270
+    4300026: Wood_Log_03
+    4300028: polySurface371
+    4300030: polySurface299
+    4300032: polySurface394
+    4300034: pasted__SkeletalMeshComponent0
+    4300036: polySurface447
+    4300038: Obstacle_1
+    4300040: Obstacle_2
+    4300042: pPlane2
+    4300044: polySurface1115
+    4300046: polySurface1623
+    4300048: polySurface1119
+    4300050: polySurface1123
+    4300052: polySurface1127
+    4300054: Obstacle_9
+    4300056: Mountain
+    4300058: SM_Fern_01
+    4300060: SM_Fern_02
+    4300062: Palm_Tree_Leaves
+    4300064: Palm_Tree_Stump
+    4300066: Palm_Tree_Stump1
+    4300068: Palm_Tree_Leaves1
+    4300070: Palm_Trees1_Palm_Tree_Leaves1
+    4300072: Palm_Trees1_Palm_Tree_Leaves
+    4300074: SM_Fern_03
+    4300076: SM_Fern_04
+    4300078: pasted__SM_DeadBush_02
+    4300080: pasted__Hut_3
+    4300082: pPlane18
+    4300084: pPlane19
+    4300086: pPlane20
+    4300088: pPlane21
+    4300090: pPlane22
+    4300092: pPlane23
+    4300094: pPlane24
+    4300096: pPlane25
+    4300098: pPlane26
+    4300100: pPlane27
+    4300102: pPlane28
+    4300104: pPlane29
+    4300106: pPlane30
+    4300108: pPlane31
+    4300110: pPlane32
+    4300112: pPlane33
+    4300114: pPlane34
+    4300116: pPlane35
+    4300118: pPlane36
+    4300120: pPlane55
+    4300122: pPlane56
+    4300124: polySurface1446
+    4300126: polySurface1435
+    4300128: polySurface1418
+    4300130: polySurface1447
+    4300132: polySurface1429
+    4300134: polySurface1471
+    4300136: polySurface1472
+    4300138: SM_Small_Rock_01
+    4300140: polySurface1483
+    4300142: polySurface1491
+    4300144: polySurface1493
+    4300146: polySurface1494
+    4300148: polySurface1495
+    4300150: polySurface1496
+    4300152: polySurface1497
+    4300154: polySurface1498
+    4300156: polySurface1499
+    4300158: polySurface1500
+    4300160: polySurface1501
+    4300162: polySurface1502
+    4300164: polySurface1503
+    4300166: polySurface1504
+    4300168: polySurface1505
+    4300170: polySurface1506
+    4300172: polySurface1508
+    4300174: polySurface1510
+    4300176: polySurface1511
+    4300178: polySurface1512
+    4300180: polySurface1513
+    4300182: polySurface1514
+    4300184: polySurface1515
+    4300186: polySurface1516
+    4300188: polySurface1517
+    4300190: polySurface1518
+    4300192: polySurface1519
+    4300194: polySurface1520
+    4300196: polySurface1521
+    4300198: polySurface1522
+    4300200: polySurface1523
+    4300202: polySurface1524
+    4300204: polySurface1525
+    4300206: polySurface1526
+    4300208: polySurface1527
+    4300210: polySurface1528
+    4300212: polySurface1529
+    4300214: polySurface1530
+    4300216: polySurface1531
+    4300218: polySurface1532
+    4300220: polySurface1533
+    4300222: polySurface1534
+    4300224: polySurface1535
+    4300226: polySurface1536
+    4300228: polySurface1537
+    4300230: polySurface1538
+    4300232: polySurface1539
+    4300234: polySurface1540
+    4300236: polySurface1541
+    4300238: polySurface1542
+    4300240: polySurface1543
+    4300242: polySurface1544
+    4300244: polySurface1545
+    4300246: polySurface1546
+    4300248: polySurface1547
+    4300250: polySurface1548
+    4300252: polySurface1549
+    4300254: polySurface1550
+    4300256: polySurface1551
+    4300258: polySurface1552
+    4300260: polySurface1553
+    4300262: polySurface1554
+    4300264: polySurface1555
+    4300266: polySurface1556
+    4300268: polySurface1557
+    4300270: polySurface1558
+    4300272: polySurface1560
+    4300274: polySurface1561
+    4300276: polySurface1562
+    4300278: polySurface1564
+    4300280: polySurface1565
+    4300282: polySurface1566
+    4300284: polySurface1638
+    4300286: polySurface1568
+    4300288: polySurface1569
+    4300290: polySurface1571
+    4300292: polySurface1572
+    4300294: polySurface1573
+    4300296: polySurface1574
+    4300298: polySurface1575
+    4300300: polySurface1576
+    4300302: polySurface1577
+    4300304: polySurface1579
+    4300306: polySurface1580
+    4300308: polySurface1581
+    4300310: polySurface1582
+    4300312: polySurface1583
+    4300314: polySurface1584
+    4300316: polySurface1585
+    4300318: polySurface1587
+    4300320: polySurface1588
+    4300322: polySurface1590
+    4300324: polySurface1591
+    4300326: polySurface1592
+    4300328: polySurface1593
+    4300330: polySurface1594
+    4300332: polySurface1595
+    4300334: polySurface1596
+    4300336: polySurface1597
+    4300338: polySurface1598
+    4300340: polySurface1599
+    4300342: polySurface1600
+    4300344: polySurface1601
+    4300346: polySurface1602
+    4300348: polySurface1603
+    4300350: polySurface1604
+    4300352: polySurface1606
+    4300354: polySurface1607
+    4300356: polySurface1608
+    4300358: polySurface1609
+    4300360: polySurface1610
+    4300362: polySurface1611
+    4300364: polySurface1612
+    4300366: polySurface1613
+    4300368: polySurface1614
+    4300370: polySurface1615
+    4300372: polySurface1617
+    4300374: polySurface1618
+    4300376: polySurface1620
+    4300378: polySurface1621
+    4300380: polySurface1631
+    4300382: SM_Fern_07
+    4300384: pPlane18
+    4300386: pPlane19
+    4300388: pPlane20
+    4300390: pPlane21
+    4300392: pPlane22
+    4300394: pPlane23
+    4300396: pPlane24
+    4300398: pPlane25
+    4300400: pPlane26
+    4300402: pPlane27
+    4300404: pPlane28
+    4300406: pPlane29
+    4300408: pPlane30
+    4300410: pPlane31
+    4300412: pPlane32
+    4300414: pPlane33
+    4300416: pPlane34
+    4300418: pPlane35
+    4300420: pPlane36
+    4300422: pPlane90
+    4300424: pPlane91
+    4300426: pPlane92
+    4300428: SM_Fern_08
+    4300430: SM_Fern_09
+    4300432: pPlane18
+    4300434: pPlane19
+    4300436: pPlane20
+    4300438: pPlane21
+    4300440: pPlane22
+    4300442: pPlane23
+    4300444: pPlane24
+    4300446: pPlane25
+    4300448: pPlane26
+    4300450: pPlane27
+    4300452: pPlane28
+    4300454: pPlane29
+    4300456: pPlane30
+    4300458: pPlane31
+    4300460: pPlane32
+    4300462: pPlane33
+    4300464: pPlane34
+    4300466: pPlane35
+    4300468: pPlane36
+    4300470: pPlane77
+    4300472: pPlane18
+    4300474: pPlane19
+    4300476: pPlane20
+    4300478: pPlane21
+    4300480: pPlane22
+    4300482: pPlane23
+    4300484: pPlane24
+    4300486: pPlane25
+    4300488: pPlane26
+    4300490: pPlane27
+    4300492: pPlane28
+    4300494: pPlane29
+    4300496: pPlane30
+    4300498: pPlane31
+    4300500: pPlane32
+    4300502: pPlane33
+    4300504: pPlane34
+    4300506: pPlane35
+    4300508: pPlane36
+    4300510: pPlane69
+    4300512: pPlane70
+    4300514: pPlane71
+    4300516: pPlane72
+    4300518: pPlane73
+    4300520: pPlane74
+    4300522: pPlane75
+    4300524: pPlane76
+    4300526: pPlane78
+    4300528: pPlane18
+    4300530: pPlane19
+    4300532: pPlane20
+    4300534: pPlane21
+    4300536: pPlane22
+    4300538: pPlane23
+    4300540: pPlane24
+    4300542: pPlane25
+    4300544: pPlane26
+    4300546: pPlane27
+    4300548: pPlane28
+    4300550: pPlane29
+    4300552: pPlane30
+    4300554: pPlane31
+    4300556: pPlane32
+    4300558: pPlane33
+    4300560: pPlane34
+    4300562: pPlane35
+    4300564: pPlane36
+    4300566: pPlane94
+    4300568: pPlane95
+    4300570: pPlane96
+    4300572: pPlane97
+    4300574: pPlane18
+    4300576: pPlane19
+    4300578: pPlane20
+    4300580: pPlane21
+    4300582: pPlane22
+    4300584: pPlane23
+    4300586: pPlane24
+    4300588: pPlane25
+    4300590: pPlane26
+    4300592: pPlane27
+    4300594: pPlane28
+    4300596: pPlane29
+    4300598: pPlane30
+    4300600: pPlane31
+    4300602: pPlane32
+    4300604: pPlane33
+    4300606: pPlane34
+    4300608: pPlane35
+    4300610: pPlane36
+    4300612: pPlane93
+    4300614: pPlane98
+    4300616: pPlane18
+    4300618: pPlane19
+    4300620: pPlane20
+    4300622: pPlane21
+    4300624: pPlane22
+    4300626: pPlane23
+    4300628: pPlane24
+    4300630: pPlane25
+    4300632: pPlane26
+    4300634: pPlane27
+    4300636: pPlane28
+    4300638: pPlane29
+    4300640: pPlane30
+    4300642: pPlane31
+    4300644: pPlane32
+    4300646: pPlane33
+    4300648: pPlane34
+    4300650: pPlane35
+    4300652: pPlane36
+    4300654: pPlane18
+    4300656: pPlane19
+    4300658: pPlane20
+    4300660: pPlane21
+    4300662: pPlane22
+    4300664: pPlane23
+    4300666: pPlane24
+    4300668: pPlane25
+    4300670: pPlane26
+    4300672: pPlane27
+    4300674: pPlane28
+    4300676: pPlane29
+    4300678: pPlane30
+    4300680: pPlane31
+    4300682: pPlane32
+    4300684: pPlane33
+    4300686: pPlane34
+    4300688: pPlane35
+    4300690: pPlane36
+    4300692: polySurface1625
+    4300694: polySurface1626
+    4300696: polySurface1627
+    4300698: polySurface1628
+    4300700: polySurface1629
+    4300702: polySurface1630
+    4300704: SM_Fern_010
+    4300706: polySurface1632
+    4300708: polySurface1633
+    4300710: polySurface1635
+    4300712: pPlane19
+    4300714: pPlane20
+    4300716: pPlane21
+    4300718: pPlane22
+    4300720: pPlane24
+    4300722: pPlane25
+    4300724: pPlane26
+    4300726: pPlane27
+    4300728: pPlane28
+    4300730: pPlane29
+    4300732: pPlane30
+    4300734: pPlane32
+    4300736: pPlane33
+    4300738: pPlane34
+    4300740: pPlane35
+    4300742: pPlane36
+    4300744: pPlane19
+    4300746: pPlane20
+    4300748: pPlane21
+    4300750: pPlane22
+    4300752: pPlane24
+    4300754: pPlane25
+    4300756: pPlane26
+    4300758: pPlane27
+    4300760: pPlane28
+    4300762: pPlane29
+    4300764: pPlane30
+    4300766: pPlane32
+    4300768: pPlane33
+    4300770: pPlane34
+    4300772: pPlane35
+    4300774: pPlane36
+    4300776: pPlane57
+    4300778: pPlane58
+    4300780: pPlane59
+    4300782: pPlane60
+    4300784: pPlane80
+    4300786: pPlane81
+    4300788: pPlane82
+    4300790: pPlane85
+    4300792: pPlane86
+    4300794: pPlane87
+    4300796: pPlane88
+    4300798: SM_DeadBush_04
+    4300800: SM_DeadBush_03
+    4300802: SM_DeadBush_04
+    4300804: SM_DeadBush_03
+    4300806: polySurface1636
+    4300808: SM_Fern_011
+    4300810: polySurface1637
+    4300812: pPlane19
+    4300814: pPlane20
+    4300816: pPlane21
+    4300818: pPlane22
+    4300820: pPlane24
+    4300822: pPlane25
+    4300824: pPlane26
+    4300826: pPlane27
+    4300828: pPlane28
+    4300830: pPlane29
+    4300832: pPlane30
+    4300834: pPlane32
+    4300836: pPlane33
+    4300838: pPlane34
+    4300840: pPlane35
+    4300842: pPlane36
+    4300844: pPlane61
+    4300846: pPlane62
+    4300848: pPlane63
+    4300850: pPlane64
+    4300852: pPlane79
+    4300854: pPlane83
+    4300856: pPlane84
+    4300858: SM_Fern_012
+    4300860: SM_Fern_013
+    4300862: pPlane19
+    4300864: pPlane20
+    4300866: pPlane21
+    4300868: pPlane22
+    4300870: pPlane24
+    4300872: pPlane25
+    4300874: pPlane26
+    4300876: pPlane27
+    4300878: pPlane28
+    4300880: pPlane29
+    4300882: pPlane30
+    4300884: pPlane32
+    4300886: pPlane33
+    4300888: pPlane34
+    4300890: pPlane35
+    4300892: pPlane36
+    4300894: pPlane65
+    4300896: pPlane66
+    4300898: pPlane19
+    4300900: pPlane20
+    4300902: pPlane21
+    4300904: pPlane22
+    4300906: pPlane25
+    4300908: pPlane30
+    4300910: pPlane32
+    4300912: pPlane33
+    4300914: pPlane68
+    4300916: pPlane22
+    4300918: pPlane24
+    4300920: pPlane25
+    4300922: pPlane26
+    4300924: pPlane30
+    4300926: pPlane34
+    4300928: pPlane67
+    4300930: SM_Fern_014
+    4300932: pPlane19
+    4300934: pPlane20
+    4300936: pPlane21
+    4300938: pPlane22
+    4300940: pPlane24
+    4300942: pPlane25
+    4300944: pPlane26
+    4300946: pPlane27
+    4300948: pPlane28
+    4300950: pPlane30
+    4300952: pPlane32
+    4300954: pPlane33
+    4300956: pPlane34
+    4300958: pPlane35
+    4300960: pPlane36
+    4300962: pPlane89
+    4300964: pCylinder2
+    4300966: Tree
+    4300968: Tree_3
+    4300970: Tree_2
+    4300972: polySurface1677
+    4300974: SM_Small_Rock_02
+    4300976: SM_Small_Rock_03
+    4300978: polySurface1678
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 24dd554bcf5532e45af098515b625773
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sindbad:mixamorig:Head
+    100004: Sindbad:mixamorig:HeadTop_End
+    100006: Sindbad:mixamorig:Hips
+    100008: Sindbad:mixamorig:LeftArm
+    100010: Sindbad:mixamorig:LeftFoot
+    100012: Sindbad:mixamorig:LeftForeArm
+    100014: Sindbad:mixamorig:LeftHand
+    100016: Sindbad:mixamorig:LeftHandIndex1
+    100018: Sindbad:mixamorig:LeftHandIndex2
+    100020: Sindbad:mixamorig:LeftHandIndex3
+    100022: Sindbad:mixamorig:LeftHandIndex4
+    100024: Sindbad:mixamorig:LeftHandMiddle1
+    100026: Sindbad:mixamorig:LeftHandMiddle2
+    100028: Sindbad:mixamorig:LeftHandMiddle3
+    100030: Sindbad:mixamorig:LeftHandMiddle4
+    100032: Sindbad:mixamorig:LeftHandPinky1
+    100034: Sindbad:mixamorig:LeftHandPinky2
+    100036: Sindbad:mixamorig:LeftHandPinky3
+    100038: Sindbad:mixamorig:LeftHandPinky4
+    100040: Sindbad:mixamorig:LeftHandRing1
+    100042: Sindbad:mixamorig:LeftHandRing2
+    100044: Sindbad:mixamorig:LeftHandRing3
+    100046: Sindbad:mixamorig:LeftHandRing4
+    100048: Sindbad:mixamorig:LeftHandThumb1
+    100050: Sindbad:mixamorig:LeftHandThumb2
+    100052: Sindbad:mixamorig:LeftHandThumb3
+    100054: Sindbad:mixamorig:LeftHandThumb4
+    100056: Sindbad:mixamorig:LeftLeg
+    100058: Sindbad:mixamorig:LeftShoulder
+    100060: Sindbad:mixamorig:LeftToe_End
+    100062: Sindbad:mixamorig:LeftToeBase
+    100064: Sindbad:mixamorig:LeftUpLeg
+    100066: Sindbad:mixamorig:Neck
+    100068: Sindbad:mixamorig:RightArm
+    100070: Sindbad:mixamorig:RightFoot
+    100072: Sindbad:mixamorig:RightForeArm
+    100074: Sindbad:mixamorig:RightHand
+    100076: Sindbad:mixamorig:RightHandIndex1
+    100078: Sindbad:mixamorig:RightHandIndex2
+    100080: Sindbad:mixamorig:RightHandIndex3
+    100082: Sindbad:mixamorig:RightHandIndex4
+    100084: Sindbad:mixamorig:RightHandMiddle1
+    100086: Sindbad:mixamorig:RightHandMiddle2
+    100088: Sindbad:mixamorig:RightHandMiddle3
+    100090: Sindbad:mixamorig:RightHandMiddle4
+    100092: Sindbad:mixamorig:RightHandPinky1
+    100094: Sindbad:mixamorig:RightHandPinky2
+    100096: Sindbad:mixamorig:RightHandPinky3
+    100098: Sindbad:mixamorig:RightHandPinky4
+    100100: Sindbad:mixamorig:RightHandRing1
+    100102: Sindbad:mixamorig:RightHandRing2
+    100104: Sindbad:mixamorig:RightHandRing3
+    100106: Sindbad:mixamorig:RightHandRing4
+    100108: Sindbad:mixamorig:RightHandThumb1
+    100110: Sindbad:mixamorig:RightHandThumb2
+    100112: Sindbad:mixamorig:RightHandThumb3
+    100114: Sindbad:mixamorig:RightHandThumb4
+    100116: Sindbad:mixamorig:RightLeg
+    100118: Sindbad:mixamorig:RightShoulder
+    100120: Sindbad:mixamorig:RightToe_End
+    100122: Sindbad:mixamorig:RightToeBase
+    100124: Sindbad:mixamorig:RightUpLeg
+    100126: Sindbad:mixamorig:Spine
+    100128: Sindbad:mixamorig:Spine1
+    100130: Sindbad:mixamorig:Spine2
+    100132: Sindbad:Objesct001
+    400000: //RootNode
+    400002: Sindbad:mixamorig:Head
+    400004: Sindbad:mixamorig:HeadTop_End
+    400006: Sindbad:mixamorig:Hips
+    400008: Sindbad:mixamorig:LeftArm
+    400010: Sindbad:mixamorig:LeftFoot
+    400012: Sindbad:mixamorig:LeftForeArm
+    400014: Sindbad:mixamorig:LeftHand
+    400016: Sindbad:mixamorig:LeftHandIndex1
+    400018: Sindbad:mixamorig:LeftHandIndex2
+    400020: Sindbad:mixamorig:LeftHandIndex3
+    400022: Sindbad:mixamorig:LeftHandIndex4
+    400024: Sindbad:mixamorig:LeftHandMiddle1
+    400026: Sindbad:mixamorig:LeftHandMiddle2
+    400028: Sindbad:mixamorig:LeftHandMiddle3
+    400030: Sindbad:mixamorig:LeftHandMiddle4
+    400032: Sindbad:mixamorig:LeftHandPinky1
+    400034: Sindbad:mixamorig:LeftHandPinky2
+    400036: Sindbad:mixamorig:LeftHandPinky3
+    400038: Sindbad:mixamorig:LeftHandPinky4
+    400040: Sindbad:mixamorig:LeftHandRing1
+    400042: Sindbad:mixamorig:LeftHandRing2
+    400044: Sindbad:mixamorig:LeftHandRing3
+    400046: Sindbad:mixamorig:LeftHandRing4
+    400048: Sindbad:mixamorig:LeftHandThumb1
+    400050: Sindbad:mixamorig:LeftHandThumb2
+    400052: Sindbad:mixamorig:LeftHandThumb3
+    400054: Sindbad:mixamorig:LeftHandThumb4
+    400056: Sindbad:mixamorig:LeftLeg
+    400058: Sindbad:mixamorig:LeftShoulder
+    400060: Sindbad:mixamorig:LeftToe_End
+    400062: Sindbad:mixamorig:LeftToeBase
+    400064: Sindbad:mixamorig:LeftUpLeg
+    400066: Sindbad:mixamorig:Neck
+    400068: Sindbad:mixamorig:RightArm
+    400070: Sindbad:mixamorig:RightFoot
+    400072: Sindbad:mixamorig:RightForeArm
+    400074: Sindbad:mixamorig:RightHand
+    400076: Sindbad:mixamorig:RightHandIndex1
+    400078: Sindbad:mixamorig:RightHandIndex2
+    400080: Sindbad:mixamorig:RightHandIndex3
+    400082: Sindbad:mixamorig:RightHandIndex4
+    400084: Sindbad:mixamorig:RightHandMiddle1
+    400086: Sindbad:mixamorig:RightHandMiddle2
+    400088: Sindbad:mixamorig:RightHandMiddle3
+    400090: Sindbad:mixamorig:RightHandMiddle4
+    400092: Sindbad:mixamorig:RightHandPinky1
+    400094: Sindbad:mixamorig:RightHandPinky2
+    400096: Sindbad:mixamorig:RightHandPinky3
+    400098: Sindbad:mixamorig:RightHandPinky4
+    400100: Sindbad:mixamorig:RightHandRing1
+    400102: Sindbad:mixamorig:RightHandRing2
+    400104: Sindbad:mixamorig:RightHandRing3
+    400106: Sindbad:mixamorig:RightHandRing4
+    400108: Sindbad:mixamorig:RightHandThumb1
+    400110: Sindbad:mixamorig:RightHandThumb2
+    400112: Sindbad:mixamorig:RightHandThumb3
+    400114: Sindbad:mixamorig:RightHandThumb4
+    400116: Sindbad:mixamorig:RightLeg
+    400118: Sindbad:mixamorig:RightShoulder
+    400120: Sindbad:mixamorig:RightToe_End
+    400122: Sindbad:mixamorig:RightToeBase
+    400124: Sindbad:mixamorig:RightUpLeg
+    400126: Sindbad:mixamorig:Spine
+    400128: Sindbad:mixamorig:Spine1
+    400130: Sindbad:mixamorig:Spine2
+    400132: Sindbad:Objesct001
+    2100000: Sindbad_06 - Default
+    2100002: Sindbad_01 - Default
+    2100004: Sindbad_02 - Default
+    2100006: Sindbad_20 - DefaultASAS
+    2100008: Sindbad_SIndbad_T_pose_04 - Default
+    2100010: Sindbad_05 - Default
+    2100012: Sindbad_04 - Default
+    2100014: Sindbad_SIndbad_T_pose_05 - Default
+    2100016: Sindbad_SIndbad_T_pose_body
+    2100018: Sindbad_SIndbad_T_pose_06 - Default
+    2100020: Sindbad_SIndbad_T_pose_20 - Default
+    2100022: Sindbad_body
+    2100024: Sindbad_20 - Default
+    4300000: Sindbad:Objesct001
+    9500000: //RootNode
+    13700000: Sindbad:Objesct001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_01 - Default
+    second: {fileID: 2100000, guid: a4bab24efe2d49d4dbde150b4c88a0ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_02 - Default
+    second: {fileID: 2100000, guid: b47ae6abf2046954d8b176ca0611eb74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_04 - Default
+    second: {fileID: 2100000, guid: 71d8af1481a5f4441b9a34f7799d64c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_05 - Default
+    second: {fileID: 2100000, guid: ce2c415b52b88f44d8d4a5db9499cf68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_06 - Default
+    second: {fileID: 2100000, guid: 5e3e7badc07cfc64c842a96d3c116fc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_20 - Default
+    second: {fileID: 2100000, guid: 4c5a0d4b953ee6844b562dba030ef7cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_20 - DefaultASAS
+    second: {fileID: 2100000, guid: cae284df08fe4d04dbe341e71be070c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_SIndbad_T_pose_04 - Default
+    second: {fileID: 2100000, guid: 8b8a9042542140d4bbb34f0586adff92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_SIndbad_T_pose_05 - Default
+    second: {fileID: 2100000, guid: 06b44619f2ccc96488ddcd7036198611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_SIndbad_T_pose_06 - Default
+    second: {fileID: 2100000, guid: 98d3ded10feaaa944ae8153128857acd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_SIndbad_T_pose_20 - Default
+    second: {fileID: 2100000, guid: 4c5a0d4b953ee6844b562dba030ef7cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_SIndbad_T_pose_body
+    second: {fileID: 2100000, guid: 79f81d553e8c16c4b9b201f310c15352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sindbad_body
+    second: {fileID: 2100000, guid: 79f81d553e8c16c4b9b201f310c15352, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.002
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
